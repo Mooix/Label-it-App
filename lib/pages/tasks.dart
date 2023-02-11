@@ -75,20 +75,3 @@ class Tasks extends StatelessWidget {
     );
   }
 }
-
-
-
-
-  // Widget _buildTaskStatus(Color bgColor, Color txtColor, String text){
-  //   return Container(
-  //     padding: EdgeInsets.symmetric(horizontal: 15, vertical: 10),
-  //     decoration: BoxDecoration(
-  //       color: bgColor,
-  //       borderRadius: BorderRadius.circular(20)
-  //     ),
-  //     child: Text(
-  //       text,
-  //       style: TextStyle(color: txtColor),
-  //       ),
-  //   );
-  // }
