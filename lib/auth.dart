@@ -32,19 +32,6 @@ class Auth {
       email: email,
       password: password,
     );
-    // await FirebaseFirestore.instance.collection('users').add({
-    //   'email': email,
-    //   'projects':{
-    //     'name': "Car",
-    //     'date': "02-02-2023",
-    //     'instructions': "Your instructions",
-    //     'task': "Text",
-    //     'type': "Named Entity Recognition",
-    //     'progress': "50%",
-    //   }
-    // });
-
-    // CollectionReference userss = FirebaseFirestore.instance.collection('users');
 
 // add user
     await FirebaseFirestore.instance
