@@ -1,6 +1,6 @@
 # Label it App
 
-In this project, we implemented a managed app called Label it, which was related to our graduation project. Our graduation project is about creating a crowdsourcing platform for labeling data. The platform aimed to connect different data owners and labelers in order to label the data. The purpose of our graduation project is to make the data ready for use in building Machine Learning models, as we knew that both supervised and unsupervised models require labeled data in order to predict future events. Thus, we developed a managed app that allowed users to track the progress of the project (if they were the data owner).
+In this project, we implemented a managed app called Label it, which was related to our graduation project. Our graduation project is about creating a crowdsourcing platform for labeling data. The platform aimed to connect different data owners and labelers in order to label the data. The purpose of our graduation project is to make the data ready for use in building Machine Learning models, as we knew that supervised machine learning models require labeled data in order to predict future events. Thus, we developed a managed app that allowed users to track the progress of the project (if they were the data owner).
 
 ## Contributors
 
